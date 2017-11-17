@@ -8,6 +8,7 @@
 $ brew install node
 $ brew install watchman
 $ brew install flow
+$ npm install -g react-native-cli
 ```
 
 #### react-native プロジェクトの生成
@@ -21,7 +22,6 @@ $ react-native init hogeProject --version 0.49.0
 #### ライブラリのインストール
 ```
 $ cd hogeProject
-$ npm install -g react-native-cli
 $ npm install tcomb-form-native
 ```
 
